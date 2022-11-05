@@ -1,5 +1,5 @@
 # SmokePing-Nginx-RockyLinux
-How to install SmokePing on Rocky Linx 8 with Nginx
+How to install SmokePing on Rocky Linux 8 with Nginx
 
 # Smokeping with Nginx on Rocky Linux 8
 The following installation was done under **Rocky Linux version 8.6** (Green Obsidian).
