@@ -10,7 +10,7 @@ The following installation was done under **Rocky Linux version 8.6** (Green Obs
 
 **Installation directory**: /opt/smokeping
 
-**Domain**: smokeping.yourdomain.com
+**Domain**: smokeping.yourdomain.com *(used in Nginx configuration)*
 
 **Account under which the web server runs**: nginx
 
