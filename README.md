@@ -1,4 +1,4 @@
-# SmokePing-Nginx-RockyLinux
+# HowTo SmokePing-Nginx-Rocky-Linux
 How to install SmokePing on Rocky Linux 8 with Nginx
 
 # Smokeping with Nginx on Rocky Linux 8
